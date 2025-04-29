@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabaoonbedar, a Software Engineer
 - 👀 I’m interested in developing mobile and web applications.
-- 🌱 I’m currently working on web development projects.
+- 🌱 I’m currently working on AI Based development projects.
 - 📫 You can reach me at sabaoonbedar@yahoo.com
 - Articles: https://medium.com/@baidar-sabaoon
 - Website: https://sabaoonbedar.com/

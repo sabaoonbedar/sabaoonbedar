@@ -10,6 +10,8 @@ I develop distributed cloud workflows using **Azure Durable Functions**, **Azure
 
 ### Tech Stack
 `Azure` · `Durable Functions` · `Cognitive Search` · `Blob Storage` · `Function Orchestrator` · `Queues` · `Service Bus` · `Event Grid` · `Python` · `Deep Learning` · `LangChain` · `RAG / self-RAG` · `Prompt Engineering` · `LLMs` · `Machine Learning` · `OCR` · `React` · `Angular` · `Laravel` · `React Native` · `Firebase` · `Full-Stack Web Development`
+
+
 I am an eager learner — throw me into anything, and I’ll provide you results.
 
 

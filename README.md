@@ -18,7 +18,6 @@ I am an eager learner — throw me into anything, and I’ll provide you results
 - 📫 You can reach me at sabaoonbedar@yahoo.com
 - Articles: https://medium.com/@baidar-sabaoon
 - Stackoverflow: https://stackoverflow.com/users/7312335/sabaoon-bedar
-- Website: https://sabaoonbedar.com/
 <!---
 sabaoonbedar/sabaoonbedar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
